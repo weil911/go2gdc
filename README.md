@@ -11,4 +11,4 @@ The [go2gdc][go2gdc] is an open-source (GPL-3) [Go][Go] package for flexible fil
 [go2gdc]: https://github.com/weil911/go2gdc
 [go2gdc source code]: https://github.com/weil911/go2gdc/tree/master/src
 [go2gdc binary file]: https://github.com/weil911/go2gdc/tree/master/bin
-[go2gdc book]: https://github.com/weil911/go2gdc/tree/master/book/_book/go2gdc.pdf
+[go2gdc book]: https://github.com/weil911/go2gdc/tree/master/book/go2gdc.pdf
