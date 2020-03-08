@@ -1,0 +1,8 @@
+omics_type = mir, gene_htseq_fpkm_uq
+project_id = TCGA-LUAD, TCGA-LUSC
+sample_type_id = 
+sample_types_for_separated_integration = 
+sample_types_for_cases_intersection = 
+omics_types_for_cases_intersection = 
+keep_samples_from_same_case = 
+case_id = 

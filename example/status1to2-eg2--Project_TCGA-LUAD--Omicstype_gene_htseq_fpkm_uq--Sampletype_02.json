@@ -1,0 +1,124 @@
+{
+    "data": {
+        "hits": [
+            {
+                "access": "open",
+                "acl": [
+                    "open"
+                ],
+                "analysis": {
+                    "workflow_type": "HTSeq - FPKM-UQ"
+                },
+                "cases": [
+                    {
+                        "project": {
+                            "project_id": "TCGA-LUAD"
+                        },
+                        "samples": [
+                            {
+                                "portions": [
+                                    {
+                                        "analytes": [
+                                            {
+                                                "aliquots": [
+                                                    {
+                                                        "aliquot_id": "0bfc47d8-bd48-49e9-8d37-6a418d049aef",
+                                                        "submitter_id": "TCGA-50-5946-02A-11R-2090-07"
+                                                    }
+                                                ],
+                                                "submitter_id": "TCGA-50-5946-02A-11R"
+                                            }
+                                        ],
+                                        "submitter_id": "TCGA-50-5946-02A-11"
+                                    }
+                                ],
+                                "sample_type": "Recurrent Tumor",
+                                "sample_type_id": "02",
+                                "submitter_id": "TCGA-50-5946-02A"
+                            }
+                        ],
+                        "submitter_id": "TCGA-50-5946"
+                    }
+                ],
+                "created_datetime": "2016-05-30T18:47:19.916040-05:00",
+                "data_category": "Transcriptome Profiling",
+                "data_format": "TXT",
+                "data_type": "Gene Expression Quantification",
+                "experimental_strategy": "RNA-Seq",
+                "file_id": "87dd492d-0c84-41b3-a6b2-e303ad60f779",
+                "file_name": "5238d39b-b3f9-4beb-a24d-c1f712fb520a.FPKM-UQ.txt.gz",
+                "file_size": 543462,
+                "id": "87dd492d-0c84-41b3-a6b2-e303ad60f779",
+                "md5sum": "8cce2557b8ea17434babb30f9ae178d3",
+                "state": "released",
+                "submitter_id": "5238d39b-b3f9-4beb-a24d-c1f712fb520a_uqfpkm",
+                "type": "gene_expression",
+                "updated_datetime": "2019-09-18T01:23:46.147678+00:00"
+            },
+            {
+                "access": "open",
+                "acl": [
+                    "open"
+                ],
+                "analysis": {
+                    "workflow_type": "HTSeq - FPKM-UQ"
+                },
+                "cases": [
+                    {
+                        "project": {
+                            "project_id": "TCGA-LUAD"
+                        },
+                        "samples": [
+                            {
+                                "portions": [
+                                    {
+                                        "analytes": [
+                                            {
+                                                "aliquots": [
+                                                    {
+                                                        "aliquot_id": "f274e34b-e111-47e0-8fff-5c338d387d76",
+                                                        "submitter_id": "TCGA-50-5066-02A-11R-2090-07"
+                                                    }
+                                                ],
+                                                "submitter_id": "TCGA-50-5066-02A-11R"
+                                            }
+                                        ],
+                                        "submitter_id": "TCGA-50-5066-02A-11"
+                                    }
+                                ],
+                                "sample_type": "Recurrent Tumor",
+                                "sample_type_id": "02",
+                                "submitter_id": "TCGA-50-5066-02A"
+                            }
+                        ],
+                        "submitter_id": "TCGA-50-5066"
+                    }
+                ],
+                "created_datetime": "2016-05-29T10:09:17.415840-05:00",
+                "data_category": "Transcriptome Profiling",
+                "data_format": "TXT",
+                "data_type": "Gene Expression Quantification",
+                "experimental_strategy": "RNA-Seq",
+                "file_id": "69ae2f60-7a68-4bd8-9d50-2045bacce75d",
+                "file_name": "71dc5938-5e78-4d58-b218-e9f6eb6b0675.FPKM-UQ.txt.gz",
+                "file_size": 570973,
+                "id": "69ae2f60-7a68-4bd8-9d50-2045bacce75d",
+                "md5sum": "b1a602a766ffa800747929eb5cccc586",
+                "state": "released",
+                "submitter_id": "71dc5938-5e78-4d58-b218-e9f6eb6b0675_uqfpkm",
+                "type": "gene_expression",
+                "updated_datetime": "2019-09-18T01:23:46.147678+00:00"
+            }
+        ],
+        "pagination": {
+            "count": 2,
+            "from": 0,
+            "page": 1,
+            "pages": 1,
+            "size": 2,
+            "sort": "",
+            "total": 2
+        }
+    },
+    "warnings": {}
+}

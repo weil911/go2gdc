@@ -1,0 +1,70 @@
+{
+    "data": {
+        "hits": [
+            {
+                "access": "open",
+                "acl": [
+                    "open"
+                ],
+                "analysis": {
+                    "workflow_type": "HTSeq - FPKM-UQ"
+                },
+                "cases": [
+                    {
+                        "project": {
+                            "project_id": "TCGA-LUAD"
+                        },
+                        "samples": [
+                            {
+                                "portions": [
+                                    {
+                                        "analytes": [
+                                            {
+                                                "aliquots": [
+                                                    {
+                                                        "aliquot_id": "2170c29a-1256-45eb-b08e-e1192dad3560",
+                                                        "submitter_id": "TCGA-44-2668-11A-01R-1758-07"
+                                                    }
+                                                ],
+                                                "submitter_id": "TCGA-44-2668-11A-01R"
+                                            }
+                                        ],
+                                        "submitter_id": "TCGA-44-2668-11A-01"
+                                    }
+                                ],
+                                "sample_type": "Solid Tissue Normal",
+                                "sample_type_id": "11",
+                                "submitter_id": "TCGA-44-2668-11A"
+                            }
+                        ],
+                        "submitter_id": "TCGA-44-2668"
+                    }
+                ],
+                "created_datetime": "2016-05-29T11:02:51.841292-05:00",
+                "data_category": "Transcriptome Profiling",
+                "data_format": "TXT",
+                "data_type": "Gene Expression Quantification",
+                "experimental_strategy": "RNA-Seq",
+                "file_id": "230fd6ca-16a6-40bb-9f3a-b0ca6136039b",
+                "file_name": "cecac722-4fe4-45e5-85e9-a4ce24c567b2.FPKM-UQ.txt.gz",
+                "file_size": 511873,
+                "id": "230fd6ca-16a6-40bb-9f3a-b0ca6136039b",
+                "md5sum": "402ef9517288338f5ea98908a731aff2",
+                "state": "released",
+                "submitter_id": "cecac722-4fe4-45e5-85e9-a4ce24c567b2_uqfpkm",
+                "type": "gene_expression",
+                "updated_datetime": "2019-09-18T01:23:46.147678+00:00"
+            }
+        ],
+        "pagination": {
+            "count": 1,
+            "from": 0,
+            "page": 1,
+            "pages": 1,
+            "size": 1,
+            "sort": "",
+            "total": 1
+        }
+    },
+    "warnings": {}
+}

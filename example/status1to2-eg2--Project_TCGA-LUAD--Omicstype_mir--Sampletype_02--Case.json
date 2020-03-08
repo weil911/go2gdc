@@ -1,0 +1,556 @@
+{
+    "count": 2,
+    "data": [
+        {
+            "case_id": "3199cfe5-3be3-43cd-a36b-5cf2c7a9929f",
+            "created_datetime": null,
+            "demographic": {
+                "age_at_index": 72,
+                "created_datetime": null,
+                "days_to_birth": -26385,
+                "demographic_id": "3b5f1bce-4312-57de-a2df-7924103c370e",
+                "ethnicity": "not hispanic or latino",
+                "gender": "male",
+                "race": "black or african american",
+                "state": "released",
+                "submitter_id": "TCGA-50-5066_demographic",
+                "updated_datetime": "2019-07-31T20:10:07.558548-05:00",
+                "vital_status": "Alive",
+                "year_of_birth": 1937,
+                "year_of_death": null
+            },
+            "diagnoses": [
+                {
+                    "age_at_diagnosis": 26385,
+                    "ajcc_pathologic_m": "M0",
+                    "ajcc_pathologic_n": "N0",
+                    "ajcc_pathologic_stage": "Stage IB",
+                    "ajcc_pathologic_t": "T2",
+                    "ajcc_staging_system_edition": "6th",
+                    "classification_of_tumor": "not reported",
+                    "created_datetime": null,
+                    "days_to_diagnosis": 0,
+                    "days_to_last_follow_up": 1442,
+                    "days_to_last_known_disease_status": null,
+                    "days_to_recurrence": null,
+                    "diagnosis_id": "1f05d063-3131-5940-9bcf-cdff4c7391d4",
+                    "icd_10_code": "C34.1",
+                    "last_known_disease_status": "not reported",
+                    "morphology": "8255/3",
+                    "primary_diagnosis": "Adenocarcinoma with mixed subtypes",
+                    "prior_malignancy": "no",
+                    "prior_treatment": "No",
+                    "progression_or_recurrence": "not reported",
+                    "site_of_resection_or_biopsy": "Upper lobe, lung",
+                    "state": "released",
+                    "submitter_id": "TCGA-50-5066_diagnosis",
+                    "synchronous_malignancy": "No",
+                    "tissue_or_organ_of_origin": "Upper lobe, lung",
+                    "treatments": [
+                        {
+                            "created_datetime": null,
+                            "state": "released",
+                            "submitter_id": "TCGA-50-5066_treatment",
+                            "therapeutic_agents": null,
+                            "treatment_id": "34b88baa-fe17-5f2b-ac77-f7d9b52cb01a",
+                            "treatment_intent_type": null,
+                            "treatment_or_therapy": "no",
+                            "treatment_type": "Radiation Therapy, NOS",
+                            "updated_datetime": "2019-07-31T20:10:07.558548-05:00"
+                        },
+                        {
+                            "created_datetime": "2019-04-28T12:37:09.052834-05:00",
+                            "days_to_treatment_end": null,
+                            "days_to_treatment_start": null,
+                            "initial_disease_status": null,
+                            "regimen_or_line_of_therapy": null,
+                            "state": "released",
+                            "submitter_id": "TCGA-50-5066_treatment_1",
+                            "therapeutic_agents": null,
+                            "treatment_anatomic_site": null,
+                            "treatment_effect": null,
+                            "treatment_id": "7998980c-a9a2-511b-930d-df89ff1561a2",
+                            "treatment_intent_type": null,
+                            "treatment_or_therapy": "yes",
+                            "treatment_outcome": null,
+                            "treatment_type": "Pharmaceutical Therapy, NOS",
+                            "updated_datetime": "2019-07-31T20:10:07.558548-05:00"
+                        }
+                    ],
+                    "tumor_grade": "not reported",
+                    "tumor_stage": "stage ib",
+                    "updated_datetime": "2019-08-08T17:08:24.604398-05:00",
+                    "year_of_diagnosis": 2009
+                }
+            ],
+            "diagnosis_ids": [
+                "1f05d063-3131-5940-9bcf-cdff4c7391d4"
+            ],
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "exposures": [
+                {
+                    "alcohol_history": "Not Reported",
+                    "alcohol_intensity": null,
+                    "bmi": null,
+                    "cigarettes_per_day": null,
+                    "created_datetime": null,
+                    "exposure_id": "18e562bb-507e-59ba-a214-c7ac36a86183",
+                    "height": null,
+                    "state": "released",
+                    "submitter_id": "TCGA-50-5066_exposure",
+                    "updated_datetime": "2019-07-31T20:10:07.558548-05:00",
+                    "weight": null,
+                    "years_smoked": null
+                }
+            ],
+            "id": "3199cfe5-3be3-43cd-a36b-5cf2c7a9929f",
+            "primary_site": "Bronchus and lung",
+            "project": {
+                "dbgap_accession_number": null,
+                "disease_type": [
+                    "Cystic, Mucinous and Serous Neoplasms",
+                    "Acinar Cell Neoplasms",
+                    "Adenomas and Adenocarcinomas"
+                ],
+                "name": "Lung Adenocarcinoma",
+                "primary_site": [
+                    "Bronchus and lung"
+                ],
+                "program": {
+                    "dbgap_accession_number": "phs000178",
+                    "name": "TCGA",
+                    "program_id": "b80aa962-9650-5110-b3eb-bd087da808db"
+                },
+                "project_id": "TCGA-LUAD",
+                "releasable": false,
+                "released": true,
+                "state": "open"
+            },
+            "samples": [
+                {
+                    "sample_type": "Recurrent Tumor",
+                    "sample_type_id": "02"
+                },
+                {
+                    "sample_type": "Primary Tumor",
+                    "sample_type_id": "01"
+                },
+                {
+                    "sample_type": "Recurrent Tumor",
+                    "sample_type_id": "02"
+                },
+                {
+                    "sample_type": "Blood Derived Normal",
+                    "sample_type_id": "10"
+                },
+                {
+                    "sample_type": "Primary Tumor",
+                    "sample_type_id": "01"
+                }
+            ],
+            "state": "released",
+            "submitter_aliquot_ids": [
+                "TCGA-50-5066-10A-01D-1623-02",
+                "TCGA-50-5066-01A-01W-1711-08",
+                "TCGA-50-5066-01A-01D-1626-05",
+                "TCGA-50-5066-02A-11H-2089-13",
+                "TCGA-50-5066-01A-01T-1627-13",
+                "TCGA-50-5066-10A-01D-1624-01",
+                "TCGA-50-5066-01A-01R-1628-07",
+                "TCGA-50-5066-01A-01D-1625-08",
+                "TCGA-50-5066-10A-01W-1711-08",
+                "TCGA-50-5066-02A-11D-2088-02",
+                "TCGA-50-5066-10A-01D-1625-08",
+                "TCGA-50-5066-01A-01D-1623-02",
+                "TCGA-50-5066-02A-11W-2160-08",
+                "TCGA-50-5066-02A-11D-2107-08",
+                "TCGA-50-5066-02A-11D-2087-05",
+                "TCGA-50-5066-01A-01D-1624-01",
+                "TCGA-50-5066-02A-11D-2085-01",
+                "TCGA-50-5066-01A-01D-2364-08",
+                "TCGA-50-5066-02A-11R-2090-07",
+                "TCGA-50-5066-10A-01D-2364-08"
+            ],
+            "submitter_analyte_ids": [
+                "TCGA-50-5066-02A-11R",
+                "TCGA-50-5066-02A-11W",
+                "TCGA-50-5066-01A-01D",
+                "TCGA-50-5066-10A-01W",
+                "TCGA-50-5066-02A-11D",
+                "TCGA-50-5066-01A-01R",
+                "TCGA-50-5066-02A-11H",
+                "TCGA-50-5066-10A-01D",
+                "TCGA-50-5066-01A-01W",
+                "TCGA-50-5066-01A-01T"
+            ],
+            "submitter_diagnosis_ids": [
+                "TCGA-50-5066_diagnosis"
+            ],
+            "submitter_id": "TCGA-50-5066",
+            "submitter_portion_ids": [
+                "TCGA-50-5066-01A-01",
+                "TCGA-50-5066-01A-21-2190-20",
+                "TCGA-50-5066-10A-01",
+                "TCGA-50-5066-02A-11"
+            ],
+            "submitter_sample_ids": [
+                "TCGA-50-5066-10A",
+                "TCGA-50-5066-01Z",
+                "TCGA-50-5066-01A",
+                "TCGA-50-5066-02Z",
+                "TCGA-50-5066-02A"
+            ],
+            "submitter_slide_ids": [
+                "TCGA-50-5066-01A-01-BS1",
+                "TCGA-50-5066-01Z-00-DX1",
+                "TCGA-50-5066-02Z-00-DX1",
+                "TCGA-50-5066-02A-01-BS1",
+                "TCGA-50-5066-01A-01-TS1",
+                "TCGA-50-5066-02A-01-TS1"
+            ],
+            "summary": {
+                "data_categories": [
+                    {
+                        "data_category": "Transcriptome Profiling",
+                        "file_count": 10
+                    },
+                    {
+                        "data_category": "Copy Number Variation",
+                        "file_count": 7
+                    },
+                    {
+                        "data_category": "Simple Nucleotide Variation",
+                        "file_count": 24
+                    },
+                    {
+                        "data_category": "DNA Methylation",
+                        "file_count": 2
+                    },
+                    {
+                        "data_category": "Clinical",
+                        "file_count": 7
+                    },
+                    {
+                        "data_category": "Sequencing Reads",
+                        "file_count": 7
+                    },
+                    {
+                        "data_category": "Biospecimen",
+                        "file_count": 24
+                    }
+                ],
+                "experimental_strategies": [
+                    {
+                        "experimental_strategy": "miRNA-Seq",
+                        "file_count": 6
+                    },
+                    {
+                        "experimental_strategy": "WXS",
+                        "file_count": 27
+                    },
+                    {
+                        "experimental_strategy": "Diagnostic Slide",
+                        "file_count": 2
+                    },
+                    {
+                        "experimental_strategy": "RNA-Seq",
+                        "file_count": 8
+                    },
+                    {
+                        "experimental_strategy": "Genotyping Array",
+                        "file_count": 7
+                    },
+                    {
+                        "experimental_strategy": "Tissue Slide",
+                        "file_count": 4
+                    },
+                    {
+                        "experimental_strategy": "Methylation Array",
+                        "file_count": 2
+                    }
+                ],
+                "file_count": 81,
+                "file_size": 54235224118
+            },
+            "tissue_source_site": {
+                "bcr_id": "IGC",
+                "code": "50",
+                "name": "University of Pittsburgh",
+                "project": "Lung adenocarcinoma",
+                "tissue_source_site_id": "15f57922-7253-504f-8f71-7eb609d51fe0"
+            },
+            "updated_datetime": "2019-08-06T14:36:02.704653-05:00"
+        },
+        {
+            "case_id": "c95957a7-1a1a-4c8d-bb61-7c99b500f224",
+            "created_datetime": null,
+            "demographic": {
+                "age_at_index": 62,
+                "created_datetime": null,
+                "days_to_birth": -22852,
+                "demographic_id": "b3cc11b6-5267-5158-92fa-3903195e41e6",
+                "ethnicity": "not reported",
+                "gender": "male",
+                "race": "white",
+                "state": "released",
+                "submitter_id": "TCGA-50-5946_demographic",
+                "updated_datetime": "2019-07-31T20:38:58.232620-05:00",
+                "vital_status": "Alive",
+                "year_of_birth": 1948,
+                "year_of_death": null
+            },
+            "diagnoses": [
+                {
+                    "age_at_diagnosis": 22852,
+                    "ajcc_pathologic_m": "MX",
+                    "ajcc_pathologic_n": "N0",
+                    "ajcc_pathologic_stage": "Stage IA",
+                    "ajcc_pathologic_t": "T1",
+                    "classification_of_tumor": "not reported",
+                    "created_datetime": null,
+                    "days_to_diagnosis": 0,
+                    "days_to_last_follow_up": 1617,
+                    "days_to_last_known_disease_status": null,
+                    "days_to_recurrence": null,
+                    "diagnosis_id": "fd90fd05-50b3-5816-8d56-b0f0c7b37c59",
+                    "icd_10_code": "C34.1",
+                    "last_known_disease_status": "not reported",
+                    "morphology": "8255/3",
+                    "primary_diagnosis": "Adenocarcinoma with mixed subtypes",
+                    "prior_malignancy": "no",
+                    "prior_treatment": "No",
+                    "progression_or_recurrence": "not reported",
+                    "site_of_resection_or_biopsy": "Upper lobe, lung",
+                    "state": "released",
+                    "submitter_id": "TCGA-50-5946_diagnosis",
+                    "synchronous_malignancy": "No",
+                    "tissue_or_organ_of_origin": "Upper lobe, lung",
+                    "treatments": [
+                        {
+                            "created_datetime": null,
+                            "state": "released",
+                            "submitter_id": "TCGA-50-5946_treatment",
+                            "therapeutic_agents": null,
+                            "treatment_id": "2d8c4486-8912-551f-b95d-d27728ac75b4",
+                            "treatment_intent_type": null,
+                            "treatment_or_therapy": "yes",
+                            "treatment_type": "Radiation Therapy, NOS",
+                            "updated_datetime": "2019-07-31T20:38:58.232620-05:00"
+                        },
+                        {
+                            "created_datetime": "2019-04-28T13:01:08.303185-05:00",
+                            "days_to_treatment_end": null,
+                            "days_to_treatment_start": null,
+                            "initial_disease_status": null,
+                            "regimen_or_line_of_therapy": null,
+                            "state": "released",
+                            "submitter_id": "TCGA-50-5946_treatment_1",
+                            "therapeutic_agents": null,
+                            "treatment_anatomic_site": null,
+                            "treatment_effect": null,
+                            "treatment_id": "8cabb8c0-4c4f-5e80-8f14-1fa6716650a8",
+                            "treatment_intent_type": null,
+                            "treatment_or_therapy": "yes",
+                            "treatment_outcome": null,
+                            "treatment_type": "Pharmaceutical Therapy, NOS",
+                            "updated_datetime": "2019-07-31T20:38:58.232620-05:00"
+                        }
+                    ],
+                    "tumor_grade": "not reported",
+                    "tumor_stage": "stage ia",
+                    "updated_datetime": "2019-08-08T17:08:24.604398-05:00",
+                    "year_of_diagnosis": 2010
+                }
+            ],
+            "diagnosis_ids": [
+                "fd90fd05-50b3-5816-8d56-b0f0c7b37c59"
+            ],
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "exposures": [
+                {
+                    "alcohol_history": "Not Reported",
+                    "alcohol_intensity": null,
+                    "bmi": null,
+                    "cigarettes_per_day": null,
+                    "created_datetime": null,
+                    "exposure_id": "1c7b8b5d-0cf8-5b78-8f5e-ecb58069bdcd",
+                    "height": null,
+                    "state": "released",
+                    "submitter_id": "TCGA-50-5946_exposure",
+                    "updated_datetime": "2019-07-31T20:38:58.232620-05:00",
+                    "weight": null,
+                    "years_smoked": null
+                }
+            ],
+            "id": "c95957a7-1a1a-4c8d-bb61-7c99b500f224",
+            "primary_site": "Bronchus and lung",
+            "project": {
+                "dbgap_accession_number": null,
+                "disease_type": [
+                    "Cystic, Mucinous and Serous Neoplasms",
+                    "Acinar Cell Neoplasms",
+                    "Adenomas and Adenocarcinomas"
+                ],
+                "name": "Lung Adenocarcinoma",
+                "primary_site": [
+                    "Bronchus and lung"
+                ],
+                "program": {
+                    "dbgap_accession_number": "phs000178",
+                    "name": "TCGA",
+                    "program_id": "b80aa962-9650-5110-b3eb-bd087da808db"
+                },
+                "project_id": "TCGA-LUAD",
+                "releasable": false,
+                "released": true,
+                "state": "open"
+            },
+            "samples": [
+                {
+                    "sample_type": "Blood Derived Normal",
+                    "sample_type_id": "10"
+                },
+                {
+                    "sample_type": "Primary Tumor",
+                    "sample_type_id": "01"
+                },
+                {
+                    "sample_type": "Primary Tumor",
+                    "sample_type_id": "01"
+                },
+                {
+                    "sample_type": "Recurrent Tumor",
+                    "sample_type_id": "02"
+                }
+            ],
+            "state": "released",
+            "submitter_aliquot_ids": [
+                "TCGA-50-5946-01A-11R-1755-07",
+                "TCGA-50-5946-01A-11D-1753-08",
+                "TCGA-50-5946-10A-01W-1804-08",
+                "TCGA-50-5946-02A-11H-2089-13",
+                "TCGA-50-5946-02A-11R-2090-07",
+                "TCGA-50-5946-10A-01D-1751-02",
+                "TCGA-50-5946-02A-11D-2088-02",
+                "TCGA-50-5946-01A-11D-1751-02",
+                "TCGA-50-5946-10A-01D-1752-01",
+                "TCGA-50-5946-01A-11D-1752-01",
+                "TCGA-50-5946-02A-11W-2160-08",
+                "TCGA-50-5946-02A-11D-2087-05",
+                "TCGA-50-5946-01A-11H-1754-13",
+                "TCGA-50-5946-01A-11D-1756-05",
+                "TCGA-50-5946-02A-11D-2085-01",
+                "TCGA-50-5946-01A-11W-1804-08",
+                "TCGA-50-5946-10A-01D-1753-08",
+                "TCGA-50-5946-02A-11D-2107-08"
+            ],
+            "submitter_analyte_ids": [
+                "TCGA-50-5946-02A-11H",
+                "TCGA-50-5946-02A-11D",
+                "TCGA-50-5946-01A-11W",
+                "TCGA-50-5946-01A-11R",
+                "TCGA-50-5946-10A-01D",
+                "TCGA-50-5946-01A-11H",
+                "TCGA-50-5946-01A-11D",
+                "TCGA-50-5946-02A-11W",
+                "TCGA-50-5946-10A-01W",
+                "TCGA-50-5946-02A-11R"
+            ],
+            "submitter_diagnosis_ids": [
+                "TCGA-50-5946_diagnosis"
+            ],
+            "submitter_id": "TCGA-50-5946",
+            "submitter_portion_ids": [
+                "TCGA-50-5946-02A-11",
+                "TCGA-50-5946-01A-13-2191-20",
+                "TCGA-50-5946-01A-11",
+                "TCGA-50-5946-10A-01"
+            ],
+            "submitter_sample_ids": [
+                "TCGA-50-5946-02A",
+                "TCGA-50-5946-01A",
+                "TCGA-50-5946-01Z",
+                "TCGA-50-5946-10A"
+            ],
+            "submitter_slide_ids": [
+                "TCGA-50-5946-01A-01-BS1",
+                "TCGA-50-5946-01A-01-TS1",
+                "TCGA-50-5946-02A-01-TS1",
+                "TCGA-50-5946-02A-01-BS1",
+                "TCGA-50-5946-01Z-00-DX1"
+            ],
+            "summary": {
+                "data_categories": [
+                    {
+                        "data_category": "Transcriptome Profiling",
+                        "file_count": 10
+                    },
+                    {
+                        "data_category": "Copy Number Variation",
+                        "file_count": 5
+                    },
+                    {
+                        "data_category": "Simple Nucleotide Variation",
+                        "file_count": 24
+                    },
+                    {
+                        "data_category": "DNA Methylation",
+                        "file_count": 2
+                    },
+                    {
+                        "data_category": "Clinical",
+                        "file_count": 7
+                    },
+                    {
+                        "data_category": "Sequencing Reads",
+                        "file_count": 7
+                    },
+                    {
+                        "data_category": "Biospecimen",
+                        "file_count": 23
+                    }
+                ],
+                "experimental_strategies": [
+                    {
+                        "experimental_strategy": "miRNA-Seq",
+                        "file_count": 6
+                    },
+                    {
+                        "experimental_strategy": "WXS",
+                        "file_count": 27
+                    },
+                    {
+                        "experimental_strategy": "Diagnostic Slide",
+                        "file_count": 1
+                    },
+                    {
+                        "experimental_strategy": "RNA-Seq",
+                        "file_count": 8
+                    },
+                    {
+                        "experimental_strategy": "Genotyping Array",
+                        "file_count": 5
+                    },
+                    {
+                        "experimental_strategy": "Tissue Slide",
+                        "file_count": 4
+                    },
+                    {
+                        "experimental_strategy": "Methylation Array",
+                        "file_count": 2
+                    }
+                ],
+                "file_count": 78,
+                "file_size": 56477598219
+            },
+            "tissue_source_site": {
+                "bcr_id": "IGC",
+                "code": "50",
+                "name": "University of Pittsburgh",
+                "project": "Lung adenocarcinoma",
+                "tissue_source_site_id": "15f57922-7253-504f-8f71-7eb609d51fe0"
+            },
+            "updated_datetime": "2019-08-06T14:36:02.704653-05:00"
+        }
+    ]
+}

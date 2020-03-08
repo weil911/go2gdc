@@ -1,0 +1,70 @@
+{
+    "data": {
+        "hits": [
+            {
+                "access": "open",
+                "acl": [
+                    "open"
+                ],
+                "analysis": {
+                    "workflow_type": "BCGSC miRNA Profiling"
+                },
+                "cases": [
+                    {
+                        "project": {
+                            "project_id": "TCGA-LUAD"
+                        },
+                        "samples": [
+                            {
+                                "portions": [
+                                    {
+                                        "analytes": [
+                                            {
+                                                "aliquots": [
+                                                    {
+                                                        "aliquot_id": "7e82a1f0-8836-476a-9d5c-578c72f4c4ae",
+                                                        "submitter_id": "TCGA-44-2668-11A-01R-1757-13"
+                                                    }
+                                                ],
+                                                "submitter_id": "TCGA-44-2668-11A-01R"
+                                            }
+                                        ],
+                                        "submitter_id": "TCGA-44-2668-11A-01"
+                                    }
+                                ],
+                                "sample_type": "Solid Tissue Normal",
+                                "sample_type_id": "11",
+                                "submitter_id": "TCGA-44-2668-11A"
+                            }
+                        ],
+                        "submitter_id": "TCGA-44-2668"
+                    }
+                ],
+                "created_datetime": "2018-03-20T07:51:22.741993-05:00",
+                "data_category": "Transcriptome Profiling",
+                "data_format": "TXT",
+                "data_type": "miRNA Expression Quantification",
+                "experimental_strategy": "miRNA-Seq",
+                "file_id": "213dce69-e10f-4ad2-b933-d1ef06c683b5",
+                "file_name": "dfc2507b-2fab-4a95-8a7f-7b1115d877ef.mirbase21.mirnas.quantification.txt",
+                "file_size": 50137,
+                "id": "213dce69-e10f-4ad2-b933-d1ef06c683b5",
+                "md5sum": "796ca23be2ba09c3336b2258df1c5cc2",
+                "state": "released",
+                "submitter_id": "mirna_swap_dr11_411_MirnaExpressionec819029-c56f-48df-a277-2900828ed64b_profiling",
+                "type": "mirna_expression",
+                "updated_datetime": "2019-09-18T01:23:46.147678+00:00"
+            }
+        ],
+        "pagination": {
+            "count": 1,
+            "from": 0,
+            "page": 1,
+            "pages": 1,
+            "size": 1,
+            "sort": "",
+            "total": 1
+        }
+    },
+    "warnings": {}
+}

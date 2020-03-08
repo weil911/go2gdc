@@ -1,0 +1,178 @@
+{
+    "data": {
+        "hits": [
+            {
+                "access": "open",
+                "acl": [
+                    "open"
+                ],
+                "analysis": {
+                    "workflow_type": "HTSeq - FPKM-UQ"
+                },
+                "cases": [
+                    {
+                        "project": {
+                            "project_id": "TCGA-LUAD"
+                        },
+                        "samples": [
+                            {
+                                "portions": [
+                                    {
+                                        "analytes": [
+                                            {
+                                                "aliquots": [
+                                                    {
+                                                        "aliquot_id": "67ae72cb-fde7-4c65-842a-c52a9c762ad6",
+                                                        "submitter_id": "TCGA-44-2668-01A-01R-A278-07"
+                                                    }
+                                                ],
+                                                "submitter_id": "TCGA-44-2668-01A-01R"
+                                            }
+                                        ],
+                                        "submitter_id": "TCGA-44-2668-01A-01"
+                                    }
+                                ],
+                                "sample_type": "Primary Tumor",
+                                "sample_type_id": "01",
+                                "submitter_id": "TCGA-44-2668-01A"
+                            }
+                        ],
+                        "submitter_id": "TCGA-44-2668"
+                    }
+                ],
+                "created_datetime": "2016-05-29T11:02:51.252271-05:00",
+                "data_category": "Transcriptome Profiling",
+                "data_format": "TXT",
+                "data_type": "Gene Expression Quantification",
+                "experimental_strategy": "RNA-Seq",
+                "file_id": "4ae76484-c838-4a34-b256-dfc257d12f3e",
+                "file_name": "97cabc84-779b-4a98-9518-93ba4523db4a.FPKM-UQ.txt.gz",
+                "file_size": 533908,
+                "id": "4ae76484-c838-4a34-b256-dfc257d12f3e",
+                "md5sum": "9ef7574e0720e9f6b22d1825bc223abb",
+                "state": "released",
+                "submitter_id": "97cabc84-779b-4a98-9518-93ba4523db4a_uqfpkm",
+                "type": "gene_expression",
+                "updated_datetime": "2019-09-18T01:23:46.147678+00:00"
+            },
+            {
+                "access": "open",
+                "acl": [
+                    "open"
+                ],
+                "analysis": {
+                    "workflow_type": "HTSeq - FPKM-UQ"
+                },
+                "cases": [
+                    {
+                        "project": {
+                            "project_id": "TCGA-LUAD"
+                        },
+                        "samples": [
+                            {
+                                "portions": [
+                                    {
+                                        "analytes": [
+                                            {
+                                                "aliquots": [
+                                                    {
+                                                        "aliquot_id": "5dbb154c-dc6b-4217-afb2-e6339171bad3",
+                                                        "submitter_id": "TCGA-44-2668-01B-02R-A277-07"
+                                                    }
+                                                ],
+                                                "submitter_id": "TCGA-44-2668-01B-02R"
+                                            }
+                                        ],
+                                        "submitter_id": "TCGA-44-2668-01B-02"
+                                    }
+                                ],
+                                "sample_type": "Primary Tumor",
+                                "sample_type_id": "01",
+                                "submitter_id": "TCGA-44-2668-01B"
+                            }
+                        ],
+                        "submitter_id": "TCGA-44-2668"
+                    }
+                ],
+                "created_datetime": "2016-05-29T11:02:49.662065-05:00",
+                "data_category": "Transcriptome Profiling",
+                "data_format": "TXT",
+                "data_type": "Gene Expression Quantification",
+                "experimental_strategy": "RNA-Seq",
+                "file_id": "f0790836-876d-4d70-95da-60591f60b590",
+                "file_name": "ab51cccb-b5df-434a-a5a4-32368ccf0b24.FPKM-UQ.txt.gz",
+                "file_size": 586047,
+                "id": "f0790836-876d-4d70-95da-60591f60b590",
+                "md5sum": "394e4d1bd37f5024b7dc49127279ae1e",
+                "state": "released",
+                "submitter_id": "ab51cccb-b5df-434a-a5a4-32368ccf0b24_uqfpkm",
+                "type": "gene_expression",
+                "updated_datetime": "2019-09-18T01:23:46.147678+00:00"
+            },
+            {
+                "access": "open",
+                "acl": [
+                    "open"
+                ],
+                "analysis": {
+                    "workflow_type": "HTSeq - FPKM-UQ"
+                },
+                "cases": [
+                    {
+                        "project": {
+                            "project_id": "TCGA-LUAD"
+                        },
+                        "samples": [
+                            {
+                                "portions": [
+                                    {
+                                        "analytes": [
+                                            {
+                                                "aliquots": [
+                                                    {
+                                                        "aliquot_id": "4c5c1c05-b9d1-4073-9d91-5c4e552928ae",
+                                                        "submitter_id": "TCGA-44-2668-01A-01R-0946-07"
+                                                    }
+                                                ],
+                                                "submitter_id": "TCGA-44-2668-01A-01R"
+                                            }
+                                        ],
+                                        "submitter_id": "TCGA-44-2668-01A-01"
+                                    }
+                                ],
+                                "sample_type": "Primary Tumor",
+                                "sample_type_id": "01",
+                                "submitter_id": "TCGA-44-2668-01A"
+                            }
+                        ],
+                        "submitter_id": "TCGA-44-2668"
+                    }
+                ],
+                "created_datetime": "2016-05-29T11:02:50.588880-05:00",
+                "data_category": "Transcriptome Profiling",
+                "data_format": "TXT",
+                "data_type": "Gene Expression Quantification",
+                "experimental_strategy": "RNA-Seq",
+                "file_id": "65cc8920-bdbb-4a03-9e14-e995b43bde36",
+                "file_name": "f8d249c9-6792-47a0-a553-607ca1c76436.FPKM-UQ.txt.gz",
+                "file_size": 540732,
+                "id": "65cc8920-bdbb-4a03-9e14-e995b43bde36",
+                "md5sum": "187c8af5e6a99898eabc8b16d04aedd0",
+                "state": "released",
+                "submitter_id": "f8d249c9-6792-47a0-a553-607ca1c76436_uqfpkm",
+                "type": "gene_expression",
+                "updated_datetime": "2019-09-18T01:23:46.147678+00:00"
+            }
+        ],
+        "pagination": {
+            "count": 3,
+            "from": 0,
+            "page": 1,
+            "pages": 1,
+            "size": 3,
+            "sort": "",
+            "total": 3
+        }
+    },
+    "warnings": {}
+}

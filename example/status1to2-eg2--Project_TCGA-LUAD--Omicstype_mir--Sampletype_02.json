@@ -1,0 +1,124 @@
+{
+    "data": {
+        "hits": [
+            {
+                "access": "open",
+                "acl": [
+                    "open"
+                ],
+                "analysis": {
+                    "workflow_type": "BCGSC miRNA Profiling"
+                },
+                "cases": [
+                    {
+                        "project": {
+                            "project_id": "TCGA-LUAD"
+                        },
+                        "samples": [
+                            {
+                                "portions": [
+                                    {
+                                        "analytes": [
+                                            {
+                                                "aliquots": [
+                                                    {
+                                                        "aliquot_id": "aa463d91-06f0-40d6-900e-3c2631d7c11a",
+                                                        "submitter_id": "TCGA-50-5946-02A-11H-2089-13"
+                                                    }
+                                                ],
+                                                "submitter_id": "TCGA-50-5946-02A-11H"
+                                            }
+                                        ],
+                                        "submitter_id": "TCGA-50-5946-02A-11"
+                                    }
+                                ],
+                                "sample_type": "Recurrent Tumor",
+                                "sample_type_id": "02",
+                                "submitter_id": "TCGA-50-5946-02A"
+                            }
+                        ],
+                        "submitter_id": "TCGA-50-5946"
+                    }
+                ],
+                "created_datetime": "2018-03-20T07:51:22.741993-05:00",
+                "data_category": "Transcriptome Profiling",
+                "data_format": "TXT",
+                "data_type": "miRNA Expression Quantification",
+                "experimental_strategy": "miRNA-Seq",
+                "file_id": "6d869125-0f2b-406a-a1aa-4b352b2247d3",
+                "file_name": "fbfa8b28-c379-4d39-8cae-a420180d2b04.mirbase21.mirnas.quantification.txt",
+                "file_size": 50265,
+                "id": "6d869125-0f2b-406a-a1aa-4b352b2247d3",
+                "md5sum": "7517447f7665b4b27cf89730924977c0",
+                "state": "released",
+                "submitter_id": "mirna_swap_dr11_447_MirnaExpressiona6bc1075-b15e-4efe-8a18-01da1c37e0f6_profiling",
+                "type": "mirna_expression",
+                "updated_datetime": "2019-09-18T01:23:46.147678+00:00"
+            },
+            {
+                "access": "open",
+                "acl": [
+                    "open"
+                ],
+                "analysis": {
+                    "workflow_type": "BCGSC miRNA Profiling"
+                },
+                "cases": [
+                    {
+                        "project": {
+                            "project_id": "TCGA-LUAD"
+                        },
+                        "samples": [
+                            {
+                                "portions": [
+                                    {
+                                        "analytes": [
+                                            {
+                                                "aliquots": [
+                                                    {
+                                                        "aliquot_id": "8e166c4e-0764-4870-bb17-8753439703c2",
+                                                        "submitter_id": "TCGA-50-5066-02A-11H-2089-13"
+                                                    }
+                                                ],
+                                                "submitter_id": "TCGA-50-5066-02A-11H"
+                                            }
+                                        ],
+                                        "submitter_id": "TCGA-50-5066-02A-11"
+                                    }
+                                ],
+                                "sample_type": "Recurrent Tumor",
+                                "sample_type_id": "02",
+                                "submitter_id": "TCGA-50-5066-02A"
+                            }
+                        ],
+                        "submitter_id": "TCGA-50-5066"
+                    }
+                ],
+                "created_datetime": "2018-03-20T07:45:48.785770-05:00",
+                "data_category": "Transcriptome Profiling",
+                "data_format": "TXT",
+                "data_type": "miRNA Expression Quantification",
+                "experimental_strategy": "miRNA-Seq",
+                "file_id": "add14d1a-d423-4ce7-8dfc-942ccaa23584",
+                "file_name": "c85a9132-5f03-4aed-b69e-309e5f6742d0.mirbase21.mirnas.quantification.txt",
+                "file_size": 50239,
+                "id": "add14d1a-d423-4ce7-8dfc-942ccaa23584",
+                "md5sum": "cb05314e5497d2aba0f1f9978a86de0e",
+                "state": "released",
+                "submitter_id": "mirna_swap_dr11_364_MirnaExpression9cebfa24-ac70-4f1f-b995-73869c2f5a74_profiling",
+                "type": "mirna_expression",
+                "updated_datetime": "2019-09-18T01:23:46.147678+00:00"
+            }
+        ],
+        "pagination": {
+            "count": 2,
+            "from": 0,
+            "page": 1,
+            "pages": 1,
+            "size": 2,
+            "sort": "",
+            "total": 2
+        }
+    },
+    "warnings": {}
+}
