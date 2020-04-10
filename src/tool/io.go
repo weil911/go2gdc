@@ -73,7 +73,7 @@ func ReadFile(s0FilePath string) (m1FileByte map[string][]byte) {
 	return
 }
 
-//ReadFile reads unzipped file into map[UnzippedFilePath][]byte (len=1).
+//ReadFiles reads unzipped file into map[UnzippedFilePath][]byte (len>1).
 func ReadFiles(s1FilePath []string) (m1FileByte map[string][]byte) {
 	m1FileByte = make(map[string][]byte)
 	for _, s0FilePath := range s1FilePath {
